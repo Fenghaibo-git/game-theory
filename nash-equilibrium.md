@@ -1,6 +1,6 @@
 # Nash equilibrium
 
-
+# 1
 
 
 
